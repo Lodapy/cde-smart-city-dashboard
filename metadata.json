@@ -1,0 +1,6 @@
+{
+  "name": "CDE Smart City Dashboard",
+  "description": "Sistema de Análisis Urbano Inteligente para la Intendencia de Ciudad del Este, integrando modelos de fluidos, análisis satelital y roadmap estratégico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
